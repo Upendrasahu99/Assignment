@@ -1,3 +1,4 @@
+#Add two Random Dice Number and Print the Result
 echo "adding two Random Dice Number"
 dice1=$((RANDOM%6+1))
 echo "first dice : $dice1 "
